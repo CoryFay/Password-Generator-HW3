@@ -12,14 +12,17 @@
     background-color: lightgoldenrodyellow;
 }
 
-.password-box {
-    min-height: 400px;
-    border-style: dashed;
-    margin-bottom: 10px;
-}
-
 .btn-primary {
     position: relative;
     left: 42%;
     background-color: darkred;
+}
+
+/*Id styling*/
+
+#password-box {
+    min-height: 400px;
+    border-style: dashed;
+    margin-bottom: 10px;
+    padding: 10px;
 }
